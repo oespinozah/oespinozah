@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oswaldo. You can find me at twitter as @ozzespinoza, where I post not academy stuff
+- 👋 Hi, I’m Oswaldo. You can find me at twitter as @ozzespinoza, where I post stuff that are not academic
 - 👀 I’m interested in biostatistics and public health
 - 🌱 I’m currently learning more about survival analysis
 
