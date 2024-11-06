@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Oswaldo. You can find me at twitter as @ozzespinoza, where I post stuff that are not (sometines) academic
+- 👋 Hi, I’m Oswaldo. You can find me at X as @ozzespinoza, where I post stuff that are not (sometines) academic
 - 👀 I’m interested in biostatistics and public health
 - 🌱 I’m always learning more about everything
-- 💞️ I’m looking to collaborate on spatial statistics
+- 💞️ I'm looking to collaborate on all that I can help
 
 <!---
 - 📫 How to reach me ...
